@@ -1,3 +1,5 @@
+[![Image2Text](https://raw.githubusercontent.com/seftimie/image2text/main/image2text.jpg)](#)
+
 # image2text
 Combine and use Google Cloud Vision API and the OpenAI GPT-3.5 API to analyze images and generate natural language descriptions
 
